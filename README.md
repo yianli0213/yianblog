@@ -8,7 +8,7 @@
 系級：科技系二年級
 
 ## 課程筆記區
-+ [HW1](
++ [HW1](https://yianli0213.github.io/yianblog/)
 ## 作業連結區
 ## 專題連結區
 https://markdown.tw/
